@@ -1,1 +1,7 @@
-# Rarichain-Mainnet
+Bridge ETH in Rari Mainnet:
+- Go : https://bridge.arbitrum.io/?destinationChain=rari-mainnet&sourceChain=arbitrum-one
+- Connect your wallet with the Arb network.
+- Bridge $5-$10 ETH from Arb to Rari Chain 
+
+📌 Note: Drop Date 8PM / 29 January.
+- Mint if the NFT price is Free.
